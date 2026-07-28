@@ -35,4 +35,4 @@ Built following CompTIA A+, Network+, and Security+ certification, as practical,
 
 ## Contact
 
-[Your name] — [LinkedIn] · [Email]
+Tembwe Chanda — https://www.linkedin.com/in/tembwe-chanda-3047a0330/#:~:text=linkedin.com/in/tembwe%2Dchanda%2D3047a0330 · temcoding600@gmail.com
