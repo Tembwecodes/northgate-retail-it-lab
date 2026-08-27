@@ -82,7 +82,6 @@ off afterwards to prevent the same issue recurring on its own.
 - TeamViewer session connected, remote control confirmed
 - 7-Zip installed and pinned to taskbar (Store Ops)
 - Advanced Display showing Microsoft Basic Display Adapter (Head Office IT)
-- Documents sorted by Date Modified surfacing the renamed file (Finance)
 - Printers & scanners showing HR-Floor2-Printer restored as Default (HR)
 
 ## Resume-ready bullet
